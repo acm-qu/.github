@@ -22,7 +22,7 @@ ACM-QU aims to be a leading force in fostering **innovation**, **collaboration**
 | :-------------------------------------------------------------------- | :-------------------------------------- | :----------------------- | :------------------------------------------- |
 | **[ACM-QU Landing Page](https://github.com/acm-qu/ACM-Landing-Page)** | M. Al-Ansary, Subzi, Mariam, Abdelhakim | `Front-end Development`  | Abdelhakim Akhadkhou (Character Development) |
 | **[Enhanced CSEWiki](https://github.com/acm-qu/Enhanced-CSE)**        | Ahmed, Abdelhakim                       | `Full-Stack Development` | Ahmed Mahjoub (Cancelled)                    |
-
+| **[Rate My Instructor](https://github.com/acm-qu/rate-my-instructor)** | Omar, Abdelhakim, Mariam           | `Full-Stack Development` | Abdelhakim Akhadkhou (Character Development)       |
 ---
 
 ## 📅 Upcoming Projects
