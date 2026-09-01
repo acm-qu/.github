@@ -22,12 +22,13 @@ ACM-QU aims to be a leading force in fostering **innovation**, **collaboration**
 | :-------------------------------------------------------------------- | :-------------------------------------- | :----------------------- | :------------------------------------------- |
 | **[ACM-QU Landing Page](https://github.com/acm-qu/ACM-Landing-Page)** | M. Al-Ansary, Subzi, Mariam, Abdelhakim | `Front-end Development`  | Abdelhakim Akhadkhou (Character Development) |
 | **[Enhanced CSEWiki](https://github.com/acm-qu/Enhanced-CSE)**        | Ahmed, Abdelhakim                       | `Full-Stack Development` | Ahmed Mahjoub (Cancelled)                    |
-| **[Rate My Instructor](https://github.com/acm-qu/rate-my-instructor)** [CANCELLED] | Omar, Abdelhakim, Mariam           | `Full-Stack Development` | Abdelhakim Akhadkhou (Character Development)       |
+| **[Banner Ui Enhancer](https://github.com/acm-qu/ACM-Banner-Ui-Extension)** | Omar, Abdelhakim           | `Front-end Development` | Omar Elmokadem      |
+
 ---
 
 ## 📅 Upcoming Projects
-- [ ] **Better Banner Ui Extension:** Under development.
 - [ ] **ACM Discord Bot:** No Developer Assigned Yet.
+- [ ] **ACM Mascot Robot:** No Engineers Assigned Yet.
 - [ ] **YOUR IDEA:** Contact the team and let's get your idea in here.
 
 ---
